@@ -40,7 +40,11 @@ app.MapGet("/weatherforecast", () =>
         ))
         .ToArray();
     return forecast;
-})
+});
+
+app.MapPost("/suma", (int a, int b) => Results.Ok(a + b))
+
+
 .WithName("GetWeatherForecast")
 .WithOpenApi();
 
