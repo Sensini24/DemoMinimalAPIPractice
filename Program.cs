@@ -1,10 +1,10 @@
 using DemoMinimalAPI.Data;
 using Microsoft.EntityFrameworkCore;
-
+using DemoMinimalAPI.Entities;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<DataContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"))
 );
 
 // Add services to the container.
@@ -42,8 +42,23 @@ app.MapGet("/weatherforecast", () =>
     return forecast;
 });
 
-app.MapPost("/suma", (int a, int b) => Results.Ok(a + b))
+app.MapPost("/suma", (int a, int b) => Results.Ok(a + b));
 
+app.MapGet("/getBooks", async (DataContext db) =>
+{
+    var _db = db;
+    var books = _db.Books.ToList();
+    return Results.Ok(books);
+});
+
+app.MapPost("/saveBook", async (Book book, DataContext db) =>
+{
+    var _db = db;
+    _db.Books.Add(book);
+    await _db.SaveChangesAsync();
+
+    return Results.Ok("Libro guardado correctamente");
+})
 
 .WithName("GetWeatherForecast")
 .WithOpenApi();

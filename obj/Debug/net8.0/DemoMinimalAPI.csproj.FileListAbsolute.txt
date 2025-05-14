@@ -25,182 +25,322 @@
 /home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DemoMinimalAPI.props
 /home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/staticwebassets.pack.json
 /home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/scopedcss/bundle/DemoMinimalAPI.styles.css
-/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/DemoMinimalAPI.csproj.CopyComplete
 /home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/DemoMinimalAPI.dll
 /home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/refint/DemoMinimalAPI.dll
 /home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/DemoMinimalAPI.pdb
 /home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/DemoMinimalAPI.genruntimeconfig.cache
 /home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/ref/DemoMinimalAPI.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\appsettings.Development.json
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\appsettings.json
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\DemoMinimalAPI.staticwebassets.endpoints.json
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\DemoMinimalAPI.exe
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\DemoMinimalAPI.deps.json
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\DemoMinimalAPI.runtimeconfig.json
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\DemoMinimalAPI.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\DemoMinimalAPI.pdb
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Azure.Core.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Azure.Identity.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Humanizer.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Build.Locator.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.OpenApi.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Mono.TextTemplating.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.ClientModel.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.CodeDom.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Composition.Convention.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Composition.Hosting.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Composition.Runtime.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Composition.TypedParts.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Drawing.Common.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Formats.Asn1.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.IO.Pipelines.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Memory.Data.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Runtime.Caching.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Security.Permissions.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Text.Json.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\System.Windows.Extensions.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\DemoMinimalAPI.csproj.AssemblyReference.cache
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\DemoMinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\DemoMinimalAPI.AssemblyInfoInputs.cache
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\DemoMinimalAPI.AssemblyInfo.cs
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\DemoMinimalAPI.csproj.CoreCompileInputs.cache
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\DemoMinimalAPI.MvcApplicationPartsAssemblyInfo.cs
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\DemoMinimalAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\DemoMinimalAPI.sourcelink.json
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\scopedcss\bundle\DemoMinimalAPI.styles.css
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\staticwebassets.build.json
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\staticwebassets.development.json
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\staticwebassets\msbuild.DemoMinimalAPI.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\staticwebassets\msbuild.DemoMinimalAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\staticwebassets\msbuild.build.DemoMinimalAPI.props
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DemoMinimalAPI.props
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DemoMinimalAPI.props
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\DemoMini.47D6F5F5.Up2Date
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\DemoMinimalAPI.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\refint\DemoMinimalAPI.dll
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\DemoMinimalAPI.pdb
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\DemoMinimalAPI.genruntimeconfig.cache
-D:\Proyectos c#\Practices Web Api\DemoMinimalAPIPractice\obj\Debug\net8.0\ref\DemoMinimalAPI.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/appsettings.Development.json
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/appsettings.json
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/DemoMinimalAPI.staticwebassets.endpoints.json
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/DemoMinimalAPI.exe
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/DemoMinimalAPI.deps.json
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/DemoMinimalAPI.runtimeconfig.json
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/DemoMinimalAPI.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/DemoMinimalAPI.pdb
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Azure.Core.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Azure.Identity.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Humanizer.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.OpenApi.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.ClientModel.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.CodeDom.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Formats.Asn1.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.IO.Pipelines.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Memory.Data.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Text.Json.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/DemoMinimalAPI.csproj.AssemblyReference.cache
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/DemoMinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/DemoMinimalAPI.AssemblyInfoInputs.cache
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/DemoMinimalAPI.AssemblyInfo.cs
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/DemoMinimalAPI.csproj.CoreCompileInputs.cache
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/DemoMinimalAPI.MvcApplicationPartsAssemblyInfo.cs
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/DemoMinimalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/DemoMinimalAPI.sourcelink.json
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/scopedcss/bundle/DemoMinimalAPI.styles.css
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/staticwebassets.build.json
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/staticwebassets.development.json
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/staticwebassets/msbuild.DemoMinimalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/staticwebassets/msbuild.DemoMinimalAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/staticwebassets/msbuild.build.DemoMinimalAPI.props
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DemoMinimalAPI.props
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DemoMinimalAPI.props
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/staticwebassets.pack.json
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/DemoMini.47D6F5F5.Up2Date
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/DemoMinimalAPI.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/refint/DemoMinimalAPI.dll
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/DemoMinimalAPI.pdb
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/DemoMinimalAPI.genruntimeconfig.cache
+D:/Proyectos c#/Practices Web Api/DemoMinimalAPIPractice/obj/Debug/net8.0/ref/DemoMinimalAPI.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/DemoMinimalAPI.staticwebassets.endpoints.json
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Azure.Core.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Azure.Identity.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Humanizer.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.ClientModel.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.CodeDom.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Formats.Asn1.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Memory.Data.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Text.Json.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/DemoMinimalAPI.sourcelink.json
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/staticwebassets/msbuild.DemoMinimalAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/brandon/Documentos/Proyectos VSCode/webapi/DemoMinimalAPI/obj/Debug/net8.0/DemoMini.47D6F5F5.Up2Date
